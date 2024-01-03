@@ -1,3 +1,5 @@
 This is version 1 of my project.
 My name is Rushika Zaveri.
 I am an Computer Engineer.
+I am joining as Intern in Logicwind.
+Technologies: AI & ML
